@@ -1,0 +1,64 @@
+.icon {
+    text-align: center;
+    
+}
+
+P {
+    font-size: 15PX;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+body {
+    background-color: #8768ed;
+    font-family: sans-serif;
+margin: 0 auto;
+    max-width: 1000px;
+}
+
+.logika {
+    background-color: white;
+    font-size: 20px;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    color: black;
+    border: 2px solid black;
+}
+nav {
+
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+h1 {
+    font-size: 60px;
+    background-color: white;
+    border-radius: 15px;
+    text-align: center;
+    margin: 50px;
+    border: 2px solid black;
+}
+
+h2 {
+    background-color: white;
+    font-size: 40px;
+    border-radius: 15px;
+    text-align: center;
+    margin: 50px;
+    border: 2px solid black;
+}
+
+h3 {
+    background-color: white;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 15px;
+    border: 2px solid black;
+}
